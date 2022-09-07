@@ -1,0 +1,13 @@
+/.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+**/keys.js
+**/profile_pic.jpg
+**/setupTests.js
+**/reportWebVitals.js
+
+node_modules
+
+**.env
